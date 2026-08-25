@@ -1,5 +1,1 @@
-git init
-git add nama_file.json
-git commit -m "Menambahkan file JSON"
-git remote add origin URL_REPOSITORI_ANDA
-git push -u origin main
+
